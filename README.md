@@ -1,1 +1,2 @@
-"# graph_algorithms" 
+# graph_algorithms
+This repository was built to demonstrate/model the algorithms learned in MATH 3012 Applied Combinatorics as a student at Georgia Tech. More to come later...
