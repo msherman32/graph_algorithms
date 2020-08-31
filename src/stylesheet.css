@@ -1,0 +1,17 @@
+graph {
+    fill-color: white;
+}
+
+node {
+	fill-mode: dyn-plain;
+	size-mode: dyn-size;
+	fill-color: yellow;
+	text-size: 20;
+	text-alignment: center;
+	size: 40px;
+}
+
+edge {
+    fill-mode: dyn-plain;
+    fill-color: black;
+}
